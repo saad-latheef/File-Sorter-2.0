@@ -1,4 +1,4 @@
-File Sorter 2.0
+# File-Sorter-2.0
 
 
 Sorts your file.... into type of files as the folder name
